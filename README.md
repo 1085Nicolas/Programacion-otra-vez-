@@ -1,2 +1,2 @@
 # Programacion-otra-vez-
-probando
+falta el key de firebase
