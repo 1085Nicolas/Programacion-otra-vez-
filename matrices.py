@@ -73,7 +73,7 @@ def abrir_calculadora(nombre_archivo,cerave):
 def mostrar_menu():
     menu_window = tk.Toplevel(tk_matrices)
     menu_window.title("Menú")
-    menu_window.geometry("300x200")
+    menu_window.geometry("300x300")
     menu_window.resizable(False, False)
 
     btn_iniciar_sesion = tk.Button(menu_window, text="Iniciar Sesión", command=iniciar_sesion)
