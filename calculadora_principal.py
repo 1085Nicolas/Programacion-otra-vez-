@@ -29,7 +29,7 @@ def mostrar_menu():
     # Crear una nueva ventana para el menú
     menu_window = tk.Toplevel(casio)
     menu_window.title("Menú")
-    menu_window.geometry("300x200")
+    menu_window.geometry("300x300")
     menu_window.resizable(False, False)
 
     # Botón para iniciar sesión
