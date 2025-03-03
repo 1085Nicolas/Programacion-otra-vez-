@@ -199,7 +199,7 @@ def mostrar_menu():
 
     menu_window = tk.Toplevel(fisica)
     menu_window.title("Menú")
-    menu_window.geometry("300x200")
+    menu_window.geometry("300x300")
     menu_window.resizable(False, False)
 
     btn_iniciar_sesion = tk.Button(menu_window, text="Iniciar Sesión", command=iniciar_sesion)
