@@ -10,7 +10,7 @@ import diccionarios
 ctk.set_appearance_mode("dark")  
 ctk.set_default_color_theme("blue")
 
-ctk.set_appearance_mode("dark")  # 💡 Esto asegura que la aplicación inicie en modo oscuro
+ctk.set_appearance_mode("dark")  
 
 class Cientifica(ctk.CTk):  
     def __init__(self):
