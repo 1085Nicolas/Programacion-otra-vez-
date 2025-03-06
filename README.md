@@ -21,7 +21,6 @@ Universidad Nacional De Colombia Sede Bogota
 * [Personas Contribuyentes](#personas-contribuyentes)
 * [Personas-Desarrolladores del Proyecto](#desarrolladores)
 * [Licencia](#licencia)
-* [Conclusión](#conclusión)
 
 ## Descripción
 
