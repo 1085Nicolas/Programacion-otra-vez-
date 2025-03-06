@@ -5,7 +5,7 @@ from firebase_admin import credentials, db, auth
 import datetime
 
 
-cred = credentials.Certificate("C:\\Users\\basti\\OneDrive\\Documentos\\programacion2024-2\\supercalculadoratilininsano-firebase-adminsdk-fbsvc-4b60c20dce.json")
+cred = credentials.Certificate("supercalculadoratilininsano-firebase-adminsdk-fbsvc-4b60c20dce.json")
 firebase_admin.initialize_app(cred, {
     'databaseURL': 'https://supercalculadoratilininsano-default-rtdb.firebaseio.com/'
 })
