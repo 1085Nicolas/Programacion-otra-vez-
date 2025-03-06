@@ -2,8 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/48cc419b-89a0-47fd-aacb-3761e307b338)
 
--Manuel Santiago Bastidas Gaona 
--Nicolas Palacios Quimbayo 
+- Manuel Santiago Bastidas Gaona 
+- Nicolas Palacios Quimbayo 
 
 Programacion De Computadores 
 Grupo 8 
@@ -85,19 +85,19 @@ pip install firebase-admin
 
 La aplicacion se divide en 8 documentos, 7 de codigo y 1 de credencial. Su distribucion es la siguiente:
 
-*Interfaces
-*Funciones_Principales
-*Funciones_otras_calculadoras
-*Diccionarios
-*Conexionfb
-*Menu
-*Main
-*Json
+* Interfaces
+* Funciones_Principales
+* Funciones_otras_calculadoras
+* Diccionarios
+* Conexionfb
+* Menu
+* Main
+* Json
 
 ## Tecnologias Usadas
 
-+Visual Studio Code 
-+Python
++ Visual Studio Code 
++ Python
 
 ## Personas contribuyentes
 
