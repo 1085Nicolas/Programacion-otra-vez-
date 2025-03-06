@@ -1,6 +1,6 @@
 <h1 align="center"> CALCULADORA ULTRAFUNCIONAL </h1>
 
-![image](https://github.com/user-attachments/assets/48cc419b-89a0-47fd-aacb-3761e307b338)
+![image](https://github.com/user-attachments/assets/7fa5af13-bc89-4874-bd87-1bb0d8b2a42c)
 
 - Manuel Santiago Bastidas Gaona 
 - Nicolas Palacios Quimbayo 
@@ -115,8 +115,5 @@ PhD (C) –  Ing. Eléctrica
 
 Dios provera
 
-## Conclusión
 
-Este smestre si entendi programacion (anoche)
 
-Pulgarin sigma god toilet basado skibidi 
